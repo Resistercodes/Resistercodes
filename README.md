@@ -6,11 +6,11 @@
 - 🌱 I’m currently practicing data structures and algorithms regularly and learning web development via making various real world projects.
 
 - 💞️ I’m looking forward to learn through student opportunities like internships, hackathons, scholarships and mentorship programs.
-- 
+
 - 🤗 Have a look at my projects!
-- 
+
 - 😄 Pronouns: she/her
-- 
+
 - ⚡ Fun fact: I'm an electrical engineer interested in software development while juggling between circuits.
 
 <!---
