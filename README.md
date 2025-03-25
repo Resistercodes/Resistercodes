@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Resister !!
+- 👋 Hi, I’m Samriddhi Soni!!
 
-- 👀 I’m interested in web development, web3 and machine learning.
+- 👀 I’m interested in web development and machine learning.
